@@ -6,6 +6,8 @@
 
 **Billing · Inventory · Customer Intelligence · Campaigns · Business Insights**
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=800&color=14B8A6&center=true&vCenter=true&width=700&lines=Run+the+store.+Understand+the+numbers.;From+checkout+to+customer+insights.;A+smarter+workflow+for+local+retail." alt="MerchantMitra rotating product messages" />
+
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
